@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'idea'
 apply plugin: 'eclipse'
 
-group 'racingcar'
+group 'blucean_study_01'
 version '1.0.0'
 
 sourceCompatibility = 1.8
